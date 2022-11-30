@@ -1,0 +1,16 @@
+body{
+    background: black;
+}
+.instagram-post{
+    background: white;
+	width: 510px;
+	height: 350px;
+	margin: auto;
+}
+.i-header {
+	display: flex;
+	height: 300px;
+	padding-top: 10px;
+}
+
+
