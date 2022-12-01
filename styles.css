@@ -4,17 +4,59 @@ body{
 .instagram-post{
     background: white;
 	width: 510px;
-	height: 350px;
 	margin: auto;
 }
-.i-header {
+.header{
 	display: flex;
-	height: 300px;
+	height: 100px;
 	padding-top: 10px;
+	margin: 0px;
+	border: 0px;
 }
-.prueba{
+.header-left{
+	display: flex;
+	float: left;
+}
+.fa-brands fa-html5{
+	display: flex;
+	margin-block: 0px;
+	margin: 0px;
+	border: 0px;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
+#html{
+	font-size: 15px;
+	display: flex;
+	margin-block: 0px;
+}
+#rigoberto{
+	font-size: 10px;
+	display: flex;
+	margin-block: 0px;
+}
+.header-right{
+	float: right;
+}
+.i-center{
+	width: 510px;
+}
+.iconos-centrales-left{
+	background-color: white;
+}
+.iconos-centrales-right{
+	background-color: white;
+}
+.primer-parrafo{
 	font-family: 'Roboto', sans-serif;
-	color: white;
+	color: black;
+	background-color: white;
+}
+.segundo-parrafo{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	background-color: white;
 }
 
 
