@@ -56,6 +56,8 @@ body{
 	align-items: center;
 	justify-content: right;
 	font-size: 30px;
+	padding-right: 10px;
+	padding-left: 3px;
 }
 .primer-parrafo{
 	font-family: 'Roboto', sans-serif;
@@ -68,6 +70,15 @@ body{
 	color: black;
 	background-color: white;
 	padding-left: 10px;
+}
+#primero{
+	padding-right: 3px;
+}
+#segundo{
+	padding-right: 3px;
+}
+#tercero{
+	padding-right: 3px;
 }
 
 
